@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Week 2 of Front End Web Developments Class!
+    <h1>Week 2 of Front End Web Development Class!
     </h1>
     <h3>Things I Am Excited To Do in This Class:</h3>
     </ul>
